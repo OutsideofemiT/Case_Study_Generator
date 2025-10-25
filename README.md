@@ -30,7 +30,6 @@ text
 ## Usage
 
 From your terminal, run:
-
 node caseStudyGenerator.js
 
 text
@@ -38,7 +37,7 @@ text
 - Answer the guided questions  
 - Preview your case study markdown  
 - Save or skip any section  
-- Generates a `.md` file named: `case-study-[project-name].md`
+- Generates a `.md` file named: `case-study-[project-name].md` in your working directory
 
 ---
 
@@ -123,4 +122,4 @@ MIT
 ---
 
 Made with care by Kairo Collective | Carmen Wheeler  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/carmendwheeler/)# Case_Study_Generator
+Connect with me on [LinkedIn](https://www.linkedin.com/in/carmendwheeler/)
