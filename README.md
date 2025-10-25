@@ -20,16 +20,14 @@ A Node.js CLI tool from Kairo Collective to help devs, freelancers, and project 
 
 Make sure you have [Node.js](https://nodejs.org/) installed.
 
-Install dependencies:
+### Install Dependencies
 npm install inquirer chalk
-
-text
 
 ---
 
 ## Usage
 
-From your terminal, run:
+### From your terminal, run:
 node caseStudyGenerator.js
 
 text
