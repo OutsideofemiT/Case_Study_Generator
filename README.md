@@ -30,7 +30,6 @@ npm install inquirer chalk
 ### From your terminal, run:
 node caseStudyGenerator.js
 
-text
 
 - Answer the guided questions  
 - Preview your case study markdown  
