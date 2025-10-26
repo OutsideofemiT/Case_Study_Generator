@@ -106,7 +106,7 @@ Generated with Professional Case Study Generator v2.0 by Kairo Collective
 ---
 ## Example Case Study Output
 
-Want to see the output before you start? [View or download this example PDF.](sample.pdf)
+Want to see the output before you start? [View or download this example PDF.](Sample.pdf)
 
 ---
 
