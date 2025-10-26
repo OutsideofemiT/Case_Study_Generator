@@ -104,6 +104,11 @@ Generated with Professional Case Study Generator v2.0 by Kairo Collective
     4. Done!
 
 ---
+## Example Case Study Output
+
+Want to see the output before you start? [View or download this example PDF.](sample.pdf)
+
+---
 
 ## Contributing
 
