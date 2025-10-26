@@ -20,25 +20,21 @@ A Node.js CLI tool from Kairo Collective to help devs, freelancers, and project 
 
 Make sure you have [Node.js](https://nodejs.org/) installed.
 
-Install dependencies:
+### Install Dependencies
 npm install inquirer chalk
-
-text
 
 ---
 
 ## Usage
 
-From your terminal, run:
-
+### From your terminal, run:
 node caseStudyGenerator.js
 
-text
 
 - Answer the guided questions  
 - Preview your case study markdown  
 - Save or skip any section  
-- Generates a `.md` file named: `case-study-[project-name].md`
+- Generates a `.md` file named: `case-study-[project-name].md` in your working directory
 
 ---
 
@@ -96,7 +92,6 @@ Links & Media
 
 Generated with Professional Case Study Generator v2.0 by Kairo Collective
 
-text
 
 ---
 
@@ -123,4 +118,4 @@ MIT
 ---
 
 Made with care by Kairo Collective | Carmen Wheeler  
-Connect with me on [LinkedIn](https://www.linkedin.com/in/carmendwheeler/)# Case_Study_Generator
+Connect with me on [LinkedIn](https://www.linkedin.com/in/carmendwheeler/)
