@@ -92,7 +92,6 @@ Links & Media
 
 Generated with Professional Case Study Generator v2.0 by Kairo Collective
 
-text
 
 ---
 
