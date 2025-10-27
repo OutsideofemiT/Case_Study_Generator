@@ -1,15 +1,27 @@
 {
   "name": "case_study_gen",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Node.js CLI tool to generate developer case studies for Kairo Collective and LinkedIn portfolio use.",
   "main": "caseStudyGenerator.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "type": "module",
+  "keywords": [
+    "CLI",
+    "case-study",
+    "generator",
+    "nodejs",
+    "portfolio"
+  ],
+  "author": "Carmen Wheeler <outsideofemit@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OutsideofemiT/Case_Study_Generator.git"
+  },
+  "homepage": "https://github.com/OutsideofemiT/Case_Study_Generator/tree/main",
+  "scripts": {
+    "start": "node caseStudyGenerator.js",
+    "test": "echo \"No test specified\""
+  },
   "dependencies": {
     "chalk": "^5.6.2",
     "inquirer": "^12.10.0"
